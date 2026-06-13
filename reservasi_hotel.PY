@@ -951,7 +951,7 @@ elif pilihan_menu == "❓ Pusat Bantuan":
     # Pertanyaan populer seputar kebijakan hotel yang dikemas rapi pakai fitur expander Streamlit
     with st.expander("⏱️ Jam Berapa Batas Waktu Check-In & Check-Out Standard?"):
         st.write("Masuk kamar jam 14:00 WIB yaa, kalau keluar maksimal jam 12:00 WIB.")
-    with st.expander("💳 Bisa Bayar Pake QRIS Atau E-Wallet Gak?"):
+    with st.expander("💳 Apakah pembayaran dapat dilakukan dengan E-Wallet dan Virtual Account?"):
         st.write("Bisa bgt! Kita nerima Dana, Gopay, Ovo, sama Transfer Virtual Account Bank (Mandiri dan BCA).")
 
 # --- 12. KONTAK LAYANAN SERVICE ---
